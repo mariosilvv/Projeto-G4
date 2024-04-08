@@ -48,6 +48,10 @@ div.white {
   max-width: 600px;
 }
 
+.spacing{
+  margin: 15px;
+}
+
 p.paragraph {
   border: 1px solid black;
   border-radius: 10px;
@@ -75,6 +79,10 @@ div.descriptionArt * {
   font-weight: bold;
 }
 
+.artists{
+  width: auto;
+  max-width: 600px;
+}
 
 
 .descriptionArt:hover * {
