@@ -85,6 +85,7 @@ div.descriptionArt * {
 }
 
 
+
 .descriptionArt:hover * {
   visibility: visible;
 }
@@ -94,11 +95,12 @@ section:nth-of-type(1) {
   height: 100vh;
   display: flex;
   flex-direction: row;
+  
 }
 
 
 
-section:nth-of-type(3) {
+section:nth-of-type(3) { 
   background-image: url(../img/renascentismo/venus.jpg);
   height: 100vh;
   display: flex;
