@@ -1,4 +1,4 @@
-# HisArt
+# HistArt
 ## 📌DESCRIÇÃO:
 O HistArt é uma plataforma dedicada a explorar e compartilhar a riqueza da arte da Grécia Antiga, Renascimento e Arte Barroca. Nosso objetivo é fornecer informações detalhadas e acessíveis sobre esses períodos artísticos, contribuindo para a disseminação do conhecimento histórico e cultural. Esperamos promover o interesse e apreciação por essas formas de arte, que desempenharam papéis significativos na história da humanidade.
 
