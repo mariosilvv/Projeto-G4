@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-# Com Saúde
-Você também pode ver o site disponível pelo link [Com Saúde]***site.com).
-## 📌DESCRIÇÃO:
-O Site(Com Saúde) é uma plataforma dedicada a fornecer apoio psicológico acessível e facilitar tratamentos psicológicos 
-de maneira prática e intuitiva, especialmente direcionados para pessoas negras e minorias sociais vulneráveis na sociedade.
-Nossa missão é criar um ambiente acolhedor e inclusivo, onde todos possam encontrar suporte emocional e recursos para melhorar sua saúde mental. 
-=======
 # HistArt
 ## 📌DESCRIÇÃO:
 O HistArt é uma plataforma dedicada a explorar e compartilhar a riqueza da arte da Grécia Antiga, Renascimento e Arte Barroca. Nosso objetivo é fornecer informações detalhadas e acessíveis sobre esses períodos artísticos, contribuindo para a disseminação do conhecimento histórico e cultural. Esperamos promover o interesse e apreciação por essas formas de arte, que desempenharam papéis significativos na história da humanidade.
