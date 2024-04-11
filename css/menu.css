@@ -16,6 +16,12 @@
 }
 
 
+
+button *, h3 a {
+  color: white;
+  text-decoration: none;
+}
+
 .logo img {
   width: 15%;
   margin-right: 20px;

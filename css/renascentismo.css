@@ -117,3 +117,14 @@ section:nth-of-type(5) {
 #header.none {
   display: none;
 }
+
+
+@media (max-width: 700px) {
+  h1 {
+    font-size: 30px;
+  }
+  p.paragraph{
+    width: 100px;
+    border: none;
+  }
+}
