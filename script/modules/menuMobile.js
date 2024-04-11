@@ -10,5 +10,7 @@ function initMenuMobile() {
   btnMobile.addEventListener('click', toggleMenu)
 }
 
+initMenuMobile()
+
 
 export { initMenuMobile }

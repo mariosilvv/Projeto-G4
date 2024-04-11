@@ -1,5 +1,9 @@
-main {
-  padding: 70px;
+#main {
+  padding-top: 80px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 40px;
 }
 
 
