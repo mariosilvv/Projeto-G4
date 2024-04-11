@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import 'reset.css';
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
 
@@ -170,4 +171,178 @@ margin-left: 25%;
 height: auto;
 
 justify-content: center;
+=======
+@import 'reset.css';
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
+body * {
+  font-family: "EB Garamond", serif;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+h1,
+h2 {
+  color: #1E293B;
+}
+
+section {
+  width: 100%;
+  height: 200px;
+  background-color: #F7F7F7;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+div.white {
+  width: 50%;
+  height: 100vh;
+  color: black;
+  background-color: #f5f5f5;
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+div.ilustracao {
+
+
+}
+
+div.ilustracao img {
+    width: 100%;
+    
+    }
+
+* li {
+  list-style: none;
+}
+
+.description {
+  width: auto;
+  max-width: 600px;
+}
+
+.spacing{
+  margin: 15px;
+}
+
+p.paragraph {
+  display: flex;
+margin-left: 50%;
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 20vw;
+  min-width: 50%;
+ 
+
+  font-size: 20px;
+}
+
+div.descriptionArt {
+  font-size: 30px;
+  width: 50%;
+  height: 100%;
+  color: #F7F7F7;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+div.descriptionArt * {
+  visibility: hidden;
+  transition: .1s;
+  color: #374151;
+  font-weight: bold;
+}
+
+.artists{
+  width: auto;
+  max-width: 600px;
+}
+
+
+.section {
+    background-color: #F7F7F7;
+}
+.descriptionArt:hover * {
+  visibility: visible;
+}
+
+section:nth-of-type(1) {
+  background-image: url(../img/gregos/estatuas.jpg);
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+
+
+section:nth-of-type(3) { 
+  background-image: url(../img/gregos/lake.jpg);
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+section:nth-of-type(5) {
+  background-image: url(../img/gregos/estrutura.jpg);
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#header.none {
+  display: none;
+}
+
+.artistas{
+    display: flex;
+    transition: transform 1s;
+    transform: translateX(0) scale(1.0);
+    flex-wrap: wrap;
+ gap: 20px;
+}
+.artistas :hover{
+  transition: 0.5s;
+  transform: translateX(10px) scale(1.2);
+}
+.artista {
+  
+    width: 190px; /* 1 */
+    height: 254px; /* 1 */
+    border-radius: 50px; /* 3 */
+    background: #e0e0e0; /* 3 */
+    box-shadow: 20px 20px 60px #bebebe, /* 1 */
+                  -20px -20px 60px #ffffff; /* 1 */
+    display: flex; /* 5 */
+    justify-content: center; /* 5 */
+    align-items: center; /* 5 */
+}
+
+.artista img {
+    max-width: 100%; /* 2 */
+    max-height: 100%; /* 2 */
+    border-radius: 50px; /* 3 */
+}
+
+.text{
+margin-left: 25%;
+height: auto;
+
+justify-content: center;
+>>>>>>> 498d8398932faf7beaa1b521fd0ef05cff0f893e
 }

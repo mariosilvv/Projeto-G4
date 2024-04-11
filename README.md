@@ -1,15 +1,26 @@
+<<<<<<< HEAD
 # Com Saúde
 Você também pode ver o site disponível pelo link [Com Saúde]***site.com).
 ## 📌DESCRIÇÃO:
 O Site(Com Saúde) é uma plataforma dedicada a fornecer apoio psicológico acessível e facilitar tratamentos psicológicos 
 de maneira prática e intuitiva, especialmente direcionados para pessoas negras e minorias sociais vulneráveis na sociedade.
 Nossa missão é criar um ambiente acolhedor e inclusivo, onde todos possam encontrar suporte emocional e recursos para melhorar sua saúde mental. 
+=======
+# HistArt
+## 📌DESCRIÇÃO:
+O HistArt é uma plataforma dedicada a explorar e compartilhar a riqueza da arte da Grécia Antiga, Renascimento e Arte Barroca. Nosso objetivo é fornecer informações detalhadas e acessíveis sobre esses períodos artísticos, contribuindo para a disseminação do conhecimento histórico e cultural. Esperamos promover o interesse e apreciação por essas formas de arte, que desempenharam papéis significativos na história da humanidade.
+
+>>>>>>> 498d8398932faf7beaa1b521fd0ef05cff0f893e
 
 ## ✒️ Autores do Projeto
 * **Mário Cristhian** - *Líder* - [Dev Front-end](https://github.com/linkParaPerfil)
 * **Cristhyan Lima** - *Gestor/Apresentador* - [Dev Front-end](https://github.com/linkParaPerfil)
 * **Isabela Karoline** - *HTML5 & CSS3* - [Dev Front-end](https://github.com/linkParaPerfil)
+<<<<<<< HEAD
 * **Ana Lisboa** - *HTML5 & CSS3* - [Dev Front-end](https://github.com/linkParaPerfil)
+=======
+* **Ana Lisboa** - *HTML5 & CSS3* - [Dev Full-Stack](https://github.com/linkParaPerfil)
+>>>>>>> 498d8398932faf7beaa1b521fd0ef05cff0f893e
 * **Daniel Harrison** - *Javascript* - [Dev Back-end](https://github.com/linkParaPerfil)
 
 
